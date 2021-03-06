@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 ,ESPN SUR
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/yzfwp0ngkv.m3u8?s=kXPJzS8gSQB1eEmwKn46eA&e=1615075336
+#EXTINF:-1 ,ESPN SUR 2
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/7iixd.m3u8?s=Vav_9ycigRDxPTCVLPusxg&e=1615070585
+#EXTINF:-1 ,FOXSPORT SUR
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/sxqgz5ml87d.m3u8?s=bjJambuZGnvrss2QTomsNw&e=1615073875
+#EXTINF:-1 ,DIRECTV 
+https://www.amateur.tv/static/media/upstars_low.e2bd8cab.mp
